@@ -1,8 +1,8 @@
-.holde{
-	.holder{
+
+.holder{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
-}
+
 /* Your CSS Code here. */
