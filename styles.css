@@ -1,5 +1,8 @@
 .holde{
-	display:flex;
-	display-block:inline;
+	.holder{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 }
 /* Your CSS Code here. */
